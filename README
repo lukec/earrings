@@ -1,0 +1,3 @@
+This is some code to generate SVG images suitable for laser cutting.
+
+To run the webserver, run `plackup`.  It will require some Perl modules to turn the coffeescript into javascript.
